@@ -1,0 +1,77 @@
+<resources>
+		 <string name="app_name">K S Eshwarappa</string>
+		 <string name="username">ksebjp</string>
+		 <string name="titletext">K S Eshwarappa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_person_description">
+K. S. Eshwarappa (born 10 July 1948) is a senior politician of the Bharatiya Janata Party in Karnataka. He was the Deputy Chief minister in the BJP government headed by Jagadish Shettar from 2012 to 2013. He is currently serving as the Leader of Opposition in the Karnataka Legislative Council.
+        "\n" "\n"
+Early life
+        "\n"
+        K. S. Eshwarappa was born in Bellary. His father Sharanappa moved to Shimoga in the early 1950s. His parents worked in the Bhoopalam Areca Mandi as daily wage workers. When young Eshwarappa also tried to go to work with his parents, his mother opposed the move and urged him to concentrate on his education and earn a good name in society. This inspiration that he got in his childhood, eventually led him to become a social worker.
+
+As a child, Eshwarappa was interested in sports and music. One amongst his classmates was D. M. Ravindra who later became the Prant Pracharak of Rashtriya Swayamsevak Sangh (R.S.S). Narasimha Murthy Iyengar, a well-known V.H.P leader in Shimoga introduced him to the RSS during his childhood. Thus, his public life began as an activist of the RSS.
+
+While he was a student in the National Commerce College, Shimoga, he actively worked with the Akhil Bharatiya Vidyarthi Parishad (A.B.V.P), the student wing of RSS. After his graduation, he started his own private business in Shimoga city. He also involved himself with the erstwhile Bharatiya Jana Sangh.
+     "\n" "\n"
+Political Career
+        "\n"
+        During Emergency (1975–77), he was arrested and detained in the Bellary Jail. After the removal of emergency, he became very active in politics. He worked in different capacities and in 1982, became the president of the Shimoga city unit of BJP. His personal efforts were one of the main reasons in M. Ananda rao winning from Shimoga as the first ever BJP candidate.
+
+In 1989, he contested the Karnataka assembly elections as a BJP candidate from Shimoga and defeated a heavyweight, the then health Minister K. H. Srinivas by a margin of 1,304 votes. He became popular with this victory and went on to win four more times from this constituency, losing only once in 1999. In 1992, he became the President of the State unit of BJP and was instrumental in his party\'s good performance in the 1994 state assembly elections. In 2000, he was appointed as the Chairman of the Central Silk Board when the NDA government was in power.
+
+In the BJP-JDS coalition Government headed by H. D. Kumaraswamy, he was Minister for Water Resources. Following the historic victory of the BJP in the Karnataka state elections in 2008, he became the minister for Power in the B.S. Yeddyurappa government.
+
+In January 2010, he resigned as minister and was unanimously elected as the President of the Karnataka state unit of the ruling BJP. This move was seen as BJP’s strategy to tackle opposition leader in the assembly Siddaramaiah, who also belongs to the same community.
+
+In July 2012, following the resignation of D.V. Sadananda Gowda, Jagadish Shettar was appointed the Chief minister and Eshwarappa became Deputy Chief minister. He was also entrusted with the Revenue and Rural development portfolios.[6][7] He then stepped down as the State BJP president and was succeeded by Prahlad Joshi.
+
+In the 2013 Assembly elections, Eshwarappa contested again from the Shimoga assembly constituency and lost to K. B. Prasanna Kumar of the Congress by a margin of nearly 6,000 votes.
+
+However, he was nominated by his party to the Karnataka Legislative Council in 2014 and became the Leader of the Opposition in the council.
+    </string>
+    <string name="title_activity_splash" translatable="false">SplashActivity</string>
+    <string name="home">Home</string>
+    <string name="about_person">About Eshwarappa</string>
+    <string name="as_chief">As a MLA</string>
+    <string name="achivements">Achievements</string>
+    <string name="janatadarshan">Janatadarshan</string>
+    <string name="manifesto">BJP Manifesto</string>
+    <string name="image_gallery">Image Gallery</string>
+    <string name="hdk_tv">Video Gallery</string>
+    <string name="share">Share This App</string>
+    <string name="settings_tab">Settings</string>
+    <string name="tell_friend">Tell a friend</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="app_version">1.0</string>
+    <string name="name_validate">Enter Name</string>
+    <string name="letter_validate">Write Something into letter</string>
+    <string name="email_validate">Invalid Email</string>
+    <string name="phone_validate">Enter Valid Phone Number</string>
+
+    <string name="title_select_language">Select language</string>
+    <!--<string name="title_upload_quality">Select language</string>-->
+    <string name="summary_language">English or Kannada</string>
+
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_sign_up">Send letter</string>
+    <string name="hint_phone">Valid Phone Number</string>
+    <string name="connect_to_person">Write a letter</string>
+
+
+    <string name="pref_header_about">About</string>
+    <string name="pref_header_contact_ust">Contact Us</string>
+    <string name="pref_header_email">kuruvatechnologies@gmail.com</string>
+
+    <string name="summary_about">We are a team of like-minded people from Kuruva Technologies LLP, specialized in development of Android App Development creating new trends across the app space. Glad to Help in anyway!</string>
+
+
+    <string name="suggestion_box_tab">Contact Me</string>
+
+    <string name="internet_not_available">Internet not available, Cross check your internet connectivity and try again</string>
+    <string name="invitelink">"Download App: https://play.google.com/store/apps/details?id=com.kuruvatech.bsy"</string>
+</resources>
